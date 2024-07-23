@@ -3,8 +3,8 @@
 //#include <NTPClient.h>
 
 
-//#define WIFI_SSID "simit"
-//#define WIFI_PASSWORD "kamisama"
+//#define WIFI_SSID "*****"
+//#define WIFI_PASSWORD "*****"
 
 #define LED_Time D1 // NodeMCU'da LED'in bağlanacağı pini tanımlıyoruz.
 #define LED_Stop D2
